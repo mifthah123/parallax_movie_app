@@ -1,0 +1,26 @@
+.slider__container {
+  position: relative;
+}
+
+.slider__images {
+  height: 90vh;
+  object-fit: cover;
+}
+
+.slider__text {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.slider__gradient {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: linear-gradient(transparent, black);
+}

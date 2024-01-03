@@ -1,0 +1,15 @@
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  padding: 5 15px;
+}
+
+.nav__container {
+  display: flex;
+}
+
+.nav__container > p {
+  color: #8c8c8c;
+  padding: 0 5px;
+  font-size: 15px;
+}
